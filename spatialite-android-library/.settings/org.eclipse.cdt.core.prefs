@@ -3,4 +3,9 @@ environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1283840559/appen
 environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1283840559/appendContributed=true
 environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1283840559/ndk-build/delimiter=\:
 environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1283840559/ndk-build/operation=replace
-environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1283840559/ndk-build/value=/Users/identitat/android-ndk-r8d/ndk-build
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1283840559/ndk-build/value=/Users/identitat/android-ndk/ndk-build
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.458860047/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.458860047/appendContributed=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.458860047/ndk-build/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.458860047/ndk-build/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.458860047/ndk-build/value=/Users/identitat/android-ndk/ndk-build
